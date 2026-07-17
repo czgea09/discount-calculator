@@ -83,18 +83,3 @@ py -m tkinter
 ```
 
 Apabila muncul jendela demo Tk, berarti Tkinter tersedia.
-
-## Push ke GitHub
-
-Buat repository kosong di GitHub, lalu jalankan:
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: discount calculator"
-git branch -M main
-git remote add origin https://github.com/USERNAME/discount-calculator.git
-git push -u origin main
-```
-
-Ganti `USERNAME` dengan username GitHub milikmu.
